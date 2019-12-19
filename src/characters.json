@@ -1,67 +1,67 @@
 [
     {
         "id": 1,
-        "name": "Aeryn Sun",
+        "name": "Bob",
         "image": "./assets/bob.jpg",
         "clicked": false
     },
     {
         "id": 2,
-        "name": "Arya Stark",
-        "image": "./assets/calven.jpg",
+        "name": "Calven",
+        "image": "./assets/calvin.jpg",
         "clicked": false
     },
     {
         "id": 3,
-        "name": "Debra Morgan",
+        "name": "Font",
         "image": "assets/font.jpg",
         "clicked": false
     },
     {
         "id": 4,
-        "name": "Hermione Granger",
-        "image": "assets/grechen.jpg",
+        "name": "gene",
+        "image": "assets/gene.jpg",
         "clicked": false
     },
     {
         "id": 5,
-        "name": "Captain Janeway",
+        "name": "labonz",
         "image": "assets/labonz.jpg",
         "clicked": false
     },
     {
         "id": 6,
-        "name": "Lagertha",
+        "name": "linda",
         "image": "assets/linda.jpg",
         "clicked": false
     },
     {
         "id": 7,
-        "name": "Mags Bennett",
+        "name": "louise",
         "image": "assets/louise.jpg",
         "clicked": false
     },
     {
         "id": 8,
-        "name": "Nikita",
+        "name": "old",
         "image": "assets/old.jpg",
         "clicked": false
     },
     {
         "id": 9,
-        "name": "Precious Ramotswe",
+        "name": "sargent",
         "image": "assets/sargent.jpg",
         "clicked": false
     },
     {
         "id": 10,
-        "name": "Ellen Ripley",
+        "name": "tammy",
         "image": "assets/tammy.jpg",
         "clicked": false
     },
     {
         "id": 11,
-        "name": "Dana Scully",
+        "name": "tina",
         "image": "assets/tina.jpg",
         "clicked": false
     },

@@ -4,9 +4,9 @@ import "./Card.css";
 const Card = props => {
     return(
         <div
+            className="block"
             style={{backgroundImage:`url(${props.src})`}}
             alt={props.alt}
-            className="block"
             onClick={() => props.handleClick(props.name)}>
         </div>
     )

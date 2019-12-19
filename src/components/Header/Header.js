@@ -3,8 +3,8 @@ import "./Header.css";
 
 const Header = props => (
     <div id="headerContainer" className="container">
-        <div id="title">Bobs Burgers Memory Game</div>
-        <div id="directions">Don't click the same image twice!</div>
+        <div id="title">BOBS BURGERS <br /> Memory Game</div>
+        <div id="directions">DON'T CLICK THE SAME IMAGE TWICE<br />OR YOU START OVER // HIT 12 POINTS TO WIN</div>
         <div id="scoreDiv">Score: {props.score}</div>
     </div>
 );

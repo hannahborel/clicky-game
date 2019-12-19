@@ -1,12 +1,16 @@
 #headerContainer>#title, #scoreDiv {
+    float: left;
     font-family: sans-serif;
     font-size: 30px;
+    font-weight: bold;
   
 }
 
 #headerContainer>#directions {
-    font-family: Arial, Helvetica, sans-serif;
+    font-size: ;
+    font-family: helvetica;
     padding-top: 10px;
+    text-align: center;
 }
 
 #headerContainer {
